@@ -1,0 +1,20 @@
+{
+  "source_video": "assets/raw/tiktok/i0m.bunny/7609162205333916948.mp4",
+  "source_url": null,
+  "source_author": "i0m.bunny",
+  "source_video_id": "7609162205333916948",
+  "source_caption": "Kẹo sữa chua DEKU #keosuachua #keosuachuadeku #anvat",
+  "source_music": "original sound - mua.lame",
+  "source_views": 5096,
+  "category": "keo_sua_deku",
+  "scene_index": 7,
+  "start_sec": 12.533,
+  "end_sec": 16.0,
+  "duration_sec": 3.467,
+  "watermark": {
+    "position": "br",
+    "width_pct": 0.22,
+    "source": "assets/brand/pelpel-watermark.png"
+  },
+  "face_check": "passed (no face detected)"
+}

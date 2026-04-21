@@ -1,0 +1,20 @@
+{
+  "source_video": "assets/raw/tiktok/i0m.bunny/7582972805986274568.mp4",
+  "source_url": null,
+  "source_author": "i0m.bunny",
+  "source_video_id": "7582972805986274568",
+  "source_caption": "Kẹo sữa chua Deku mix 5 vị #keosuachua #keosua #suachua #yakult #xh",
+  "source_music": "original sound - antitrangkhanzone1",
+  "source_views": 6303,
+  "category": "keo_sua_deku",
+  "scene_index": 7,
+  "start_sec": 10.4,
+  "end_sec": 13.9,
+  "duration_sec": 3.5,
+  "watermark": {
+    "position": "br",
+    "width_pct": 0.22,
+    "source": "assets/brand/pelpel-watermark.png"
+  },
+  "face_check": "passed (no face detected)"
+}

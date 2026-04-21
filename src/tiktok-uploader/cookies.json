@@ -1,0 +1,42 @@
+[
+  {
+    "name": "tt_csrf_token",
+    "value": "9SQRLoVQ-bLImWU0YL15zyg_Uvf76kXYuq9M",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tiktok_webapp_theme_source",
+    "value": "auto",
+    "domain": ".www.tiktok.com",
+    "path": "/",
+    "expires": 1802584240,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tiktok_webapp_theme",
+    "value": "light",
+    "domain": ".www.tiktok.com",
+    "path": "/",
+    "expires": 1802584240,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ttwid",
+    "value": "1%7CMHCXZ-aJ_Q50sYDnFx2oiE6E-ge5BpW3xQU974xWYEE%7C1776664365%7Cea08d3b4e2bd898bbdf41b5070218b84cb7149892bd6441471b950689697443c",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "expires": 1808200240.670284,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

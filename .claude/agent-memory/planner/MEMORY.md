@@ -1,0 +1,2 @@
+- [Pel Pel TikTok Project](project_pel_pel_tiktok.md) -- TikTok affiliate content system for VN consumable products
+- [Channel Strategy Plan](project_channel_strategy.md) -- 5-phase channel building plan at plans/260417-1057-pel-pel-channel-strategy/

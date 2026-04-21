@@ -1,0 +1,20 @@
+{
+  "source_video": "assets/raw/tiktok/beheobu0102/7623847237197630727.mp4",
+  "source_url": null,
+  "source_author": "beheobu0102",
+  "source_video_id": "7623847237197630727",
+  "source_caption": "Snack #snack#anvat#doanvat#bimbim#anvatngon",
+  "source_music": "original sound - doyan.makan7",
+  "source_views": 1772593,
+  "category": "snack_bach_tuoc",
+  "scene_index": 1,
+  "start_sec": 0.0,
+  "end_sec": 7.217,
+  "duration_sec": 7.217,
+  "watermark": {
+    "position": "br",
+    "width_pct": 0.22,
+    "source": "assets/brand/pelpel-watermark.png"
+  },
+  "face_check": "passed (no face detected)"
+}
